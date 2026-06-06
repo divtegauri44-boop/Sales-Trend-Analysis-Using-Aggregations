@@ -106,5 +106,4 @@ This project demonstrates how SQL aggregation functions can be used to analyze s
 
 
 
-Gauri Divte
-Data Analyst Internship Task 6
+
